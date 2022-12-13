@@ -3,12 +3,12 @@
 <img src="./banner.png" />
 
 <p align="center">
-  <a href="https://github.com/DavidTG7/DavidTG7" >
+  <a href="https://github.com/DavidTG7" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DavidTG7&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com/c-spider/c-spider" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidTG7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="C-Spider's GitHub Stats" height="180px"/>
+  <a href="https://github.com/DavidTG7" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidTG7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="DviadTG7's GitHub Stats" height="180px"/>
   </a>
   
  </p>
