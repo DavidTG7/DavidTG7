@@ -2,7 +2,7 @@
 
 <img src="./banner.png" />
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DavidTG7" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DavidTG7&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
@@ -12,7 +12,7 @@
   </a>
   
  </p>
-
+ -->
 <!--
 **DavidTG7/DavidTG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
